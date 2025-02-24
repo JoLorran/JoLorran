@@ -1,16 +1,25 @@
-## Hi there 👋
+#  Jó Lorran  
 
-<!--
-**JoLorran/JoLorran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Sobre mim  
+Olá! Sou Jó Lorran, um entusiasta da tecnologia apaixonado por programação e desenvolvimento de software.  
+Atualmente, estou focado em aprimorar minhas habilidades em **C#**, **HTML/CSS** e **desenvolvimento web**.  
 
-Here are some ideas to get you started:
+##  Tecnologias e Ferramentas  
+-  Linguagens: **C#, HTML, CSS, JavaScript**  
+-  IDEs: **Visual Studio, VS Code**  
+-  Banco de Dados: **SQL Server, MySQL**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  O que estou estudando?  
+-  Programação Orientada a Objetos (POO)  
+-  Desenvolvimento Web  
+-  Estruturas de Dados e Algoritmos  
+
+##  Objetivos  
+- Criar projetos que ajudem iniciantes a ingressar no mercado de trabalho  
+- Desenvolver um site de roupas com descrições detalhadas dos produtos  
+- Melhorar minhas habilidades em **C#** e desenvolvimento full stack  
+
+##  Onde me encontrar?  
+ E-mail: jolorrans@gmail.com    
+ 
+  _Sempre em busca de novos desafios e aprendizados!_
